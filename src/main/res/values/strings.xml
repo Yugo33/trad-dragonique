@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Traducteur Dragonique</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dragonique</string>
+    <string name="title_notifications">Alphanumérique</string>
+    <string name="result_alpha">Appuyez sur une image pour la traduire et sur le texte pour reset</string>
+</resources>
